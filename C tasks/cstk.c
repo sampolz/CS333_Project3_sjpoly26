@@ -3,7 +3,7 @@
 // CS333
 // cstk.c
 //
-//
+// creates a stack using c
 //
 
 #include "cstk.h"
